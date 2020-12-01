@@ -1,0 +1,49 @@
+:root {
+  --primary-color: #fd9e0d;
+  --secondary-color: #f8f8f8;
+}
+
+body,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+input,
+ul,
+li,
+a,
+section,
+form,
+table,
+td,
+tr,
+tbody,
+select,
+label,
+figure {
+  margin: 0px;
+  padding: 0px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+ul > li,
+li {
+  list-style: none;
+}
+
+body {
+  background-color: var(--primary-color);
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 100px;
+}
