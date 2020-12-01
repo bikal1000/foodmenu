@@ -98,8 +98,8 @@ main {
 }
 
 .tab img {
-  height: 64px;
-  width: 64px;
+  max-height: 64px;
+  max-width: 64px;
   border-radius: 50%;
   margin-bottom: 10px;
 }
@@ -111,6 +111,7 @@ main {
   background-color: #fff;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 
 .trigger.active {
@@ -203,5 +204,8 @@ main {
   .tag,
   .price-section p {
     text-align: left;
+  }
+  .tabs ul {
+    max-width: 350px;
   }
 }
