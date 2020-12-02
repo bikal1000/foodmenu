@@ -1,27 +1,27 @@
 const breakfast = [
     {
-        name: 'Breakfast 1',
+        name: 'Natto (Japan)',
         price: '250.00',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        description: 'Fermented soy beans are classed as a delicacy in Japan and if you can get over the pungent cheesy smell, strong flavour and slimy mucus-like texture ',
         serveTime: '2',
         serveNos: '5',
-        image: './assets/images/breakfast.jpg'
+        image: './assets/images/natto.jpg'
     },
     {
-        name: 'Breakfast 2',
+        name: 'Hagelslag (The Netherlands)',
         price: '350.00',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        description: 'These popular sprinkles (translated as hailstorm) come in a variety of shapes, sizes and flavours, including fruit and chocolate. ',
         serveTime: '6',
         serveNos: '8',
-        image: './assets/images/breakfast.jpg'
+        image: './assets/images/hagelslag.jpg'
     },
     {
-        name: 'Breakfast 3',
+        name: 'Churros (Spain)',
         price: '450.00',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        description: 'Nothing beats churros and hot chocolate when falling out of a Spanish nightclub in the early hours. Similar to a long doughnut, they are deep fried',
         serveTime: '9',
         serveNos: '3',
-        image: './assets/images/breakfast.jpg'
+        image: './assets/images/churros.jpg'
     },
 ]
 const lunch = [
