@@ -1,7 +1,7 @@
 :root {
   --primary-color: #ffeaa9;
   --active-tab: #ffc100;
-  --bg-color: #fcfcfc;
+  --bg-color: #fffaeb;
   --secondary-text: #8b8b8b;
 }
 
@@ -44,6 +44,7 @@ body {
   font-family: 'Roboto', sans-serif;
   line-height: 1.6;
   font-size: 16px;
+  background-color: var(--bg-color);
 }
 
 main {
