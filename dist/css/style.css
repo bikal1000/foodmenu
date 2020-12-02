@@ -236,6 +236,9 @@ main {
   .trigger {
     margin: 5px;
   }
+  .content-title {
+    font-size: 28px;
+  }
 }
 
 @media (max-width: 480px) {
